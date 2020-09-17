@@ -14,7 +14,7 @@
   <img width="533" height="300" src="https://raw.githubusercontent.com/joscha0/full-page-character/master/Screenshot.png">
 </p>
 <p align="center">
-  example with chinese character
-  <a target="_blank" href="http://么.com/"> http://么.com/</a>
+  example with the character "A"
+  <a target="_blank" href="http://a.960.eu/"> a.960.eu</a>
 
 
